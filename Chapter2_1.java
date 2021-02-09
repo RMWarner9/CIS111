@@ -1,4 +1,4 @@
-/*
+/**
 Chapter 2: Java Fundamentals
 2.1 The parts of Java Program
 Programs can be compiled with the command: javac <filename>
@@ -9,7 +9,7 @@ To make SINGLE LINE comments, use //
 --------------------------------------------------
 Program breakdown:
 public class <classname> {
-This is known as a class header, it marks the beggining of a class definition.
+This is known as a class header, it marks the beginning of a class definition.
     -Serves as a container for an application.
     -A java program must have at least one class definition
     -public
